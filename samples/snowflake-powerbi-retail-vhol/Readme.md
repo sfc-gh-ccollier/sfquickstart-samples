@@ -1,4 +1,4 @@
-#Lab Overview
+# Lab Overview
 In this lab, you’ll learn how to access all relevant data from a single source and turn data into insights through the Microsoft PowerBI integration:
 
 Load data at scale into Snowflake directly from Azure
