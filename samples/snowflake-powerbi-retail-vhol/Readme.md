@@ -1,4 +1,4 @@
-![Snowflake Power BI Virtual Hands On Lab](/images/VHOL-210825-1200x560-Email-Microsoft.jpg "Lab Overview")
+![Snowflake Power BI Virtual Hands On Lab](images/VHOL-210825-1200x560-Email-Microsoft.jpg "Lab Overview")
 
 # Lab Overview
 In this lab, you’ll learn how to access all relevant data from a single source and turn data into insights through the Microsoft PowerBI integration:
