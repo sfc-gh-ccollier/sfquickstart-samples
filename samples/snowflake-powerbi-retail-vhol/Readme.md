@@ -27,4 +27,4 @@ The exercises in this lab will walk you through the steps to:
 - Basic knowledge of SQL, and database concepts and objects
 - Familiarity with CSV comma-delimited files 
 
-**The Complete Lab Guide for this Virtual Hands On Lab can be access from the [Getting Started With Snowflake](http://quickstarts.snowflake.com/) Page of the Snowflake website.**
+**The complete Lab Guide for this Virtual Hands On Lab can be access from the [Getting Started With Snowflake](http://quickstarts.snowflake.com/) page of the Snowflake website.**
